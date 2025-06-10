@@ -15,15 +15,6 @@ Both tasks are seamlessly integrated into a single pipeline for automated proces
 
 ---
 
-📂 Dataset
-
-This project uses a subset of the AG News dataset:
-
-* **Original**: 120,000 training & 7,600 test samples.
-* **Reduced**: 30,000 training samples for faster BERT fine-tuning.
-* **Classes**: 4 distinct news categories.
-
----
 
 🛠️ Tools & Requirements
 
